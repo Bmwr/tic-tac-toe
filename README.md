@@ -3,7 +3,7 @@
 A Tic Tac Toe game that is written in Java for the command line.
 
 ### Contributors
-
+-------
     Andrea Beam (@BMWr)
 
 ### Copyright
